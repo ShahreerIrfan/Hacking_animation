@@ -98,4 +98,4 @@ for (i = 1; i < 13; i++) {
     $('.f1'+i+'').css({
         '-webkit-transform' : 'rotateZ('+i*30+'deg) translateY(91px)'
     }); 		
-}
+}//
